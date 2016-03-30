@@ -1,2 +1,2 @@
 # learnpython
-experiment and scripts written in python
+Experiment and Scripts Written in Python
