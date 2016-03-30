@@ -1,8 +1,3 @@
-## LSU - IE7428 Semantic Analysis
-## Ricardo A. Calix
-## Multimedia Semantic Analysis Lab
-## Python interface to Stanford parser
-
 import re
 import pprint
 import os
